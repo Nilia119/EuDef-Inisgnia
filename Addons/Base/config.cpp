@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 9JgKp-Base
+	class 9JgKp_Base
 	{
 		// Meta information for editor
 		name = "9. JgKp Insignias";
@@ -11,7 +11,7 @@ class CfgPatches
 		requiredVersion = 2.0; 
 		// Required addons, used for setting load order.
 		// When any of the addons is missing, pop-up warning will appear when launching the game.
-		requiredAddons[] = { "A3_Functions_F" };
+		requiredAddons[] = {};
 		// List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups) unlocking.
 		units[] = {};
 		// List of weapons (CfgWeapons classes) contained in the addon.
