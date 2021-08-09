@@ -18,3 +18,14 @@ class CfgPatches
 		weapons[] = {};
 	};
 };
+
+class CfgUnitInsignia
+{
+	class 9JgKp_Jaeger
+	{
+		displayName="00 Jäger";
+		author="Nilia";
+		texture="\9JgKp_Base\data\insignia\rank_00_jaeger_ca.paa";
+		textureVehicle="";
+	};
+}
