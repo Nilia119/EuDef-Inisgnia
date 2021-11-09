@@ -1,2 +1,2 @@
 # 9JgKp-Inisgnia
-This Repository contains Insignias used by pur Clan
+This Repository contains Insignias used by our Clan
