@@ -13,6 +13,7 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Nilia";
       texture = "Player\Bilder\Nilia.paa";
+	  author = "Nilia";
      }
   
 }
