@@ -1,10 +1,9 @@
-class CfgPatches
-{
+class CfgPatches {
 
-  requiredAddons[]={"9JgKp_Insignia_Base"};
+  class 9JgKp_Insignia_Player {
 
-  class 9JgKp_Insignia_Player;
-
+      requiredAddons[]={"9JgKp_Insignia_Base"};
+    };
 };
 
 class 9JgKp_Insiginia_Base;
