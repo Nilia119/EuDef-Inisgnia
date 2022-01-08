@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 9JgKp_Insiginia_Base
+	class 9JgKp_Insignia_Base
 	{
 		// Meta information for editor
 		name = "Insignien der 9. Jägerkompanie";
