@@ -21,6 +21,13 @@ class CfgPatches
 
 class CfgUnitInsignia
 {
+	//Addition of Clan Specific Emblems
+	class 9JgKp_Insignia_Logo{
+		displayName="9. Jägerkompanie";
+		author="Nilia";
+		texture="\9JgKp_Insignia_Base\data\insignia\Logo.paa";
+		textureVehicle="\9JgKp_Insignia_Base\data\insignia\Logo.paa";
+	};
 	//Addition of own Bundeswehr Ranks
 	class 9JgKp_Insignia_Jaeger
 	{
@@ -29,7 +36,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_00_Jg.paa";
 		textureVehicle="";
 	};
-	
+
 	class 9JgKp_Insignia_Gefreiter
 	{
 		displayName="001 Gefreiter";
@@ -37,7 +44,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_01_Gefr.paa";
 		textureVehicle="";
 	};
-	
+
 	class 9JgKp_Insignia_Obergefreiter
 	{
 		displayName="002 Obergefreiter";
@@ -45,7 +52,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_02_OGefr.paa";
 		textureVehicle="";
 	};
-	
+
 	class 9JgKp_Insignia_Hauptgefreiter
 	{
 		displayName="003 Hauptgefreiter";
@@ -53,7 +60,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_03_HGefr.paa";
 		textureVehicle="";
 	};
-		
+
 	class 9JgKp_Insignia_Stabsgefreiter
 	{
 		displayName="004 Stabsgefreiter";
@@ -61,7 +68,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_04_StGefr.paa";
 		textureVehicle="";
 	};
-		
+
 	class 9JgKp_Insignia_Oberstabsgefreiter
 	{
 		displayName="005 Oberstabsgefreiter";
@@ -69,23 +76,23 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_05_OStGefr.paa";
 		textureVehicle="";
 	};
-		
+
 	class 9JgKp_Insignia_Korporal
 	{
 		displayName="006 Korporal";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_06_Korporal.paa";
+		texture="\9JgKp_Insignia_Base\data\insignia\Rank_05_OStGefr.paa";
 		textureVehicle="";
 	};
-		
+
 	class 9JgKp_Insignia_Stabskorporal
 	{
 		displayName="007 Stabskorporal";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_07_Stabskorporal.paa";
+		texture="\9JgKp_Insignia_Base\data\insignia\Rank_05_OStGefr.paa";
 		textureVehicle="";
 	};
-		
+
 	class 9JgKp_Insignia_Unteroffizier
 	{
 		displayName="008 Unteroffizier";
@@ -93,7 +100,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_08_Uffz.paa";
 		textureVehicle="";
 	};
-		
+
 	class 9JgKp_Insignia_Stabsunteroffizier
 	{
 		displayName="009 Stabsunteroffizier";
@@ -101,7 +108,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_09_StUffz.paa";
 		textureVehicle="";
 	};
-		
+
 	class 9JgKp_Insignia_Feldwebel
 	{
 		displayName="010 Feldwebel";
@@ -109,7 +116,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_10_Fw.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Oberfeldwebel
 	{
 		displayName="011 Oberfeldwebel";
@@ -117,7 +124,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_11_OFw.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Hauptfeldwebel
 	{
 		displayName="012 Hauptfeldwebel";
@@ -125,7 +132,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_12_HFw.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Stabsfeldwebel
 	{
 		displayName="013 Stabsfeldwebel";
@@ -133,7 +140,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_13_StFw.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Oberstabsfeldwebel
 	{
 		displayName="014 Oberstabsfeldwebel";
@@ -141,7 +148,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_14_OStFw.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Leutnant
 	{
 		displayName="015 Leutnant";
@@ -149,7 +156,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_15_Lt.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Oberleutnant
 	{
 		displayName="016 Oberleutnant";
@@ -157,7 +164,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_16_OLt.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Hauptmann
 	{
 		displayName="017 Hauptmann";
@@ -165,7 +172,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_17_Hptm.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Stabshauptmann
 	{
 		displayName="018 Stabshauptmann";
@@ -173,7 +180,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_18_StHptm.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Major
 	{
 		displayName="019 Major";
@@ -181,7 +188,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_19_Maj.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Oberstleutnant
 	{
 		displayName="020 Oberstleutnant";
@@ -189,7 +196,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_20_Oberstlt.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Oberst
 	{
 		displayName="021 Oberst";
@@ -197,7 +204,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_21_Oberst.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Brigadegeneral
 	{
 		displayName="022 Brigadegeneral";
@@ -205,7 +212,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_22_BrigGen.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Generalmajor
 	{
 		displayName="023 Generalmajor";
@@ -213,7 +220,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_23_GenMaj.paa";
 		textureVehicle="";
 	};
-			
+
 	class 9JgKp_Insignia_Generalleutnant
 	{
 		displayName="024 Generalleutnant";
@@ -221,7 +228,7 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_24_GenLt.paa";
 		textureVehicle="";
 	};
-				
+
 	class 9JgKp_Insignia_General
 	{
 		displayName="025 General";
