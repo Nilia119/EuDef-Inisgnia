@@ -19,38 +19,42 @@ class CfgPatches
 	};
 };
 
-class 9JgKp_Insiginia_Base;
+class 9JgKp_Insignia_Logo;
 
 /* Beispiel:
-  class 9Jgkp_Insignia_NAME: 9JgKp_Insiginia_Base
+  class 9Jgkp_Insignia_NAME: 9JgKp_Insignia_Logo
 
     {
       displayName = "ANZEIGENAME DES PATCHES";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\SPIELERNAME.paa";
+			author="Nilia";
   };
   */
 
 class CfgUnitInsignia {
 
-  class 9Jgkp_Insignia_Nilia: 9JgKp_Insiginia_Base
+  class 9Jgkp_Insignia_Nilia: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Nilia";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Nilia.paa";
+			author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Paul: 9JgKp_Insiginia_Base
+	class 9Jgkp_Insignia_Paul: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Paul";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Paul.paa";
+			author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Pulle: 9JgKp_Insiginia_Base
+	class 9Jgkp_Insignia_Pulle: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Pulle";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Pulle.paa";
+			author="Nilia";
   };
 //HIER In der nächsten Zeile einfügen
 

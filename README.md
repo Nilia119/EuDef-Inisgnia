@@ -33,7 +33,9 @@ Wie füge ich mein Patch hinzu?
 
 5.3. In TV2 File->Open->NAME.PNG
 
-5.4. Nach dem öffnen File->Save As ->NAME.paa, nun sollten in dem Ordner die NAME.png und NAME.paa liegen.
+5.4. Darauf achten, dass in TV2 <b>RGBA und DXT5</b> ausgewählt ist. Sollte dies nicht der fall sein, kann in dem Feld rechts daneben (wo <i>none</i>) drinn steht <b>RGBA DXT5</b> ausgewählt werden.
+
+5.6. Dann einfach File->Save As ->NAME.paa, nun sollten in dem Ordner die NAME.png und NAME.paa liegen.
 
 6. Die .paa und .png Datei auf Github in das Geforkte Repo hochladen in den Ordner 9JgKp_Insignia_Player\Player\Bilder
 
