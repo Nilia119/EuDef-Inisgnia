@@ -38,6 +38,20 @@ class CfgUnitInsignia {
       displayName = "9. JgKp Nilia";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Nilia.paa";
   };
+
+	class 9Jgkp_Insignia_Paul: 9JgKp_Insiginia_Base
+
+    {
+      displayName = "9. JgKp Paul";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Paul.paa";
+  };
+
+	class 9Jgkp_Insignia_Pulle: 9JgKp_Insiginia_Base
+
+    {
+      displayName = "9. JgKp Pulle";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Pulle.paa";
+  };
 //HIER In der nächsten Zeile einfügen
 
 
