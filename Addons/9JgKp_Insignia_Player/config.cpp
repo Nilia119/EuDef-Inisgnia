@@ -56,6 +56,22 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Pulle.paa";
 			author="Nilia";
   };
+
+	class 9Jgkp_Insignia_Fichte: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Fichte";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Fichte.paa";
+			author="Nilia";
+  };
+
+	class 9Jgkp_Insignia_Pulle: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Marcel_F";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Marcel_F.paa";
+			author="Nilia";
+  };
 //HIER In der nächsten Zeile einfügen
 
 
