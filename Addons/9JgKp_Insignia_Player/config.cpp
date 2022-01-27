@@ -65,7 +65,7 @@ class CfgUnitInsignia {
 			author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Pulle: 9JgKp_Insignia_Logo
+	class 9Jgkp_Insignia_Marcel_F: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Marcel_F";
