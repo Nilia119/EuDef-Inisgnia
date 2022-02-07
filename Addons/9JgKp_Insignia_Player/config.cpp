@@ -60,7 +60,7 @@ class CfgUnitInsignia {
 	class 9Jgkp_Insignia_Fichte: 9JgKp_Insignia_Logo
 
     {
-      displayName = "9. JgKp Fichte";
+      displayName = "9. JgKp Fichte | Lucas";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Fichte.paa";
 			author="Nilia";
   };
@@ -81,11 +81,27 @@ class CfgUnitInsignia {
 			author="Nilia/Fflluuffyy";
 	};
 
+	class 9Jgkp_Insignia_Fox: 9JgKp_Insignia_Logo
+
+		{
+			displayName = "9. JgKp Fox";
+			texture = "\9JgKp_Insignia_Player\Player\Bilder\Fox.paa";
+			author="Nilia";
+	};
+
 	class 9Jgkp_Insignia_Juggernaut: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Juggernaut";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Juggernaut.paa";
+			author="Nilia";
+  };
+
+	class 9Jgkp_Insignia_EwL: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp EwL | Jesus";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\EwL.paa";
 			author="Nilia";
   };
 
