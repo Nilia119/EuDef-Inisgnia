@@ -73,6 +73,14 @@ class CfgUnitInsignia {
 			author="Nilia";
   };
 
+	class 9Jgkp_Insignia_McNamMon: 9JgKp_Insignia_Logo
+
+		{
+			displayName = "McNamaras-Morons";
+			texture = "\9JgKp_Insignia_Player\Player\Bilder\McNamMon.paa";
+			author="Nilia/Fflluuffyy";
+	};
+
 	class 9Jgkp_Insignia_Juggernaut: 9JgKp_Insignia_Logo
 
     {
@@ -80,6 +88,7 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Juggernaut.paa";
 			author="Nilia";
   };
+
 //HIER In der nächsten Zeile einfügen
 
 
