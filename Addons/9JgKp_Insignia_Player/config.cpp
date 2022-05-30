@@ -65,13 +65,6 @@ class CfgUnitInsignia {
 			author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Marcel_F: 9JgKp_Insignia_Logo
-
-    {
-      displayName = "9. JgKp Marcel_F";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Marcel_F.paa";
-			author="Nilia";
-  };
 
 	class 9Jgkp_Insignia_McNamMon: 9JgKp_Insignia_Logo
 
