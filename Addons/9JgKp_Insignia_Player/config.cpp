@@ -27,7 +27,7 @@ class 9JgKp_Insignia_Logo;
     {
       displayName = "ANZEIGENAME DES PATCHES";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\SPIELERNAME.paa";
-			author="Nilia";
+	  author="Nilia";
   };
   */
 
@@ -38,7 +38,7 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Nilia";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Nilia.paa";
-			author="Nilia";
+	  author="Nilia";
   };
 
 	class 9Jgkp_Insignia_Paul: 9JgKp_Insignia_Logo
@@ -46,7 +46,7 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Paul";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Paul.paa";
-			author="Nilia";
+	  author="Nilia";
   };
 
 	class 9Jgkp_Insignia_Pulle: 9JgKp_Insignia_Logo
@@ -54,7 +54,7 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Pulle";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Pulle.paa";
-			author="Nilia";
+	  author="Nilia";
   };
 
 	class 9Jgkp_Insignia_Fichte: 9JgKp_Insignia_Logo
@@ -62,32 +62,32 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Fichte | Lucas";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Fichte.paa";
-			author="Nilia";
+	  author="Nilia";
   };
 
 
 	class 9Jgkp_Insignia_McNamMon: 9JgKp_Insignia_Logo
 
-		{
-			displayName = "McNamaras-Morons";
-			texture = "\9JgKp_Insignia_Player\Player\Bilder\McNamMon.paa";
-			author="Nilia/Fflluuffyy";
-	};
+	{
+	  displayName = "McNamaras-Morons";
+	  texture = "\9JgKp_Insignia_Player\Player\Bilder\McNamMon.paa";
+	  author="Nilia/Fflluuffyy";
+  };
 
 	class 9Jgkp_Insignia_Fox: 9JgKp_Insignia_Logo
 
-		{
-			displayName = "9. JgKp Fox";
-			texture = "\9JgKp_Insignia_Player\Player\Bilder\Fox.paa";
-			author="Nilia";
-	};
+	{
+	  displayName = "9. JgKp Fox";
+	  texture = "\9JgKp_Insignia_Player\Player\Bilder\Fox.paa";
+	  author="Nilia";
+  };
 
 	class 9Jgkp_Insignia_Juggernaut: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Juggernaut";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Juggernaut.paa";
-			author="Nilia";
+	  author="Nilia";
   };
 
 	class 9Jgkp_Insignia_EwL: 9JgKp_Insignia_Logo
@@ -95,14 +95,14 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp EwL | Jesus";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\EwL.paa";
-			author="Nilia";
+	  author="Nilia";
   };
 	class 9Jgkp_Insignia_Plutokratie: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Plutokratie";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Plutokratie.paa";
-			author="Nilia";
+	  author="Nilia";
   };
 
 //HIER In der nächsten Zeile einfügen
