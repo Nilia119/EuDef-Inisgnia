@@ -97,6 +97,13 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\EwL.paa";
 			author="Nilia";
   };
+	class 9Jgkp_Insignia_Plutokratie: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Plutokratie";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Plutokratie.paa";
+			author="Nilia";
+  };
 
 //HIER In der nächsten Zeile einfügen
 
