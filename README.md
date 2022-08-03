@@ -23,19 +23,19 @@ Wie füge ich mein Patch hinzu?
 
 3.6. Zu letzt, kann unter Hintergründe der entsprechende Hintergrund ausgewählt werden, Fleck oder Tropentarn. (Je nur ein Patch pro Jäger).
 
-4. Das Bild Exportieren als -> PNG, 1156x1156px Transparenz. Bildname sollte sein: NAME-DES-JÄGERS.PNG
+4. Das Bild Exportieren als -> PNG, 1156x1156px Transparenz. Bildname sollte sein: NAME_DES_JÄGERS.PNG (Ohne verwendung von Sonderzeichen: Ä, ä, á, à, â, ß)
 
 5. Das Bild in eine .paa Umwandeln, mittels ARMA 3 TOOLS
 
 5.1. ARMA 3 TOOLS Installieren unter STEAM->Werkzeuge A3 TOOLS
 
-5.2. A3TOOLS öfnnen und dort "texVIEW 2" öffnen.
+5.2. A3TOOLS öffnen und dort "textVIEW 2" öffnen.
 
 5.3. In TV2 File->Open->NAME.PNG
 
-5.4. Darauf achten, dass in TV2 <b>RGBA und DXT5</b> ausgewählt ist. Sollte dies nicht der fall sein, kann in dem Feld rechts daneben (wo <i>none</i>) drinn steht <b>RGBA DXT5</b> ausgewählt werden.
+5.4. Darauf achten, dass in TV2 <b>RGBA und DXT5</b> ausgewählt ist. Sollte dies nicht der fall sein, kann in dem Feld rechts daneben (wo <i>none</i>) drin steht <b>RGBA DXT5</b> ausgewählt werden.
 
-5.6. Dann einfach File->Save As ->NAME.paa, nun sollten in dem Ordner die NAME.png und NAME.paa liegen.
+5.6. Dann einfach File->Save As ->NAME.paa, nun sollten in dem Ordner die NAME.png und NAME.paa liegen (mit gleichem Namen).
 
 6. Die .paa und .png Datei auf Github in das Geforkte Repo hochladen in den Ordner 9JgKp_Insignia_Player\Player\Bilder
 
@@ -51,6 +51,6 @@ Wie füge ich mein Patch hinzu?
 
 12. Speichern und via Github eine Pull-Request öffnen (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-13. Wenn alles passt, wird die .png Datei von mir gelöscht und euere Pull-Request wird gemergede.
+13. Wenn alles passt, wird die .png Datei von mir gelöscht und euere Pull-Request wird gemerged.
 
 14. Das Patch ist ab den nächsten Update verfügbar.
