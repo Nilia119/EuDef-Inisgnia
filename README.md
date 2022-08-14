@@ -23,7 +23,7 @@ Wie füge ich mein Patch hinzu?
 
 3.6. Zu letzt, kann unter Hintergründe der entsprechende Hintergrund ausgewählt werden, Fleck oder Tropentarn. (Je nur ein Patch pro Jäger).
 
-4. Das Bild Exportieren als -> PNG, 1156x1156px Transparenz. Bildname sollte sein: NAME_DES_JÄGERS.PNG (Ohne verwendung von Sonderzeichen: Ä, ä, á, à, â, ß)
+4. Das Bild Exportieren als -> PNG, 1024x1024px Transparenz. Bildname sollte sein: NAME_DES_JÄGERS.PNG (Ohne verwendung von Sonderzeichen: Ä, ä, á, à, â, ß)
 
 5. Das Bild in eine .paa Umwandeln, mittels ARMA 3 TOOLS
 
