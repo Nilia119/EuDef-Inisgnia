@@ -104,7 +104,27 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Plutokratie.paa";
 	  author="Nilia";
   };
-  
+	class 9Jgkp_Insignia_Toyo: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Stiffler";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Stiffler.paa";
+	  author="Nilia";
+  };
+	class 9Jgkp_Insignia_Toyo: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Toyo";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Toyo.paa";
+	  author="Nilia";
+  };
+	class 9Jgkp_Insignia_Farid_Khaleel: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Farid Khaleel";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Farid_Khaleel.paa";
+	  author="Nilia";
+  };
 
 //HIER In der nächsten Zeile einfügen
 
