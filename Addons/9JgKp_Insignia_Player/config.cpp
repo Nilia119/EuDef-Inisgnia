@@ -125,6 +125,41 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Farid_Khaleel.paa";
 	  author="Nilia";
   };
+	class 9Jgkp_Insignia_Gerstie: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Gerstie";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Gerstie.paa";
+	  author="Nilia";
+  };
+	class 9Jgkp_Insignia_ImTheKessel: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp ImTheKessel";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\ImTheKessel.paa";
+	  author="Nilia";
+  };
+	class 9Jgkp_Insignia_libfm: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp libfm";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\libfm.paa";
+	  author="Nilia";
+  };
+	class 9Jgkp_Insignia_Rackermann: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Rackermann";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Rackermann.paa";
+	  author="Nilia";
+  };
+	class 9Jgkp_Insignia_SasukeOversea: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp SasukeOversea";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\SasukeOversea.paa";
+	  author="Nilia";
+  };
 
 //HIER In der nächsten Zeile einfügen
 
