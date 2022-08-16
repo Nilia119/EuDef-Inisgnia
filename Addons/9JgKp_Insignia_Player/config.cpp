@@ -46,7 +46,7 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Paul";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Paul.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 
 	class 9Jgkp_Insignia_Pulle: 9JgKp_Insignia_Logo
@@ -62,7 +62,7 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Fichte | Lucas";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Fichte.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 
 
@@ -102,63 +102,63 @@ class CfgUnitInsignia {
     {
       displayName = "9. JgKp Plutokratie";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Plutokratie.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_Toyo: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Stiffler";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Stiffler.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_Toyo: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Toyo";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Toyo.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_Farid_Khaleel: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Farid Khaleel";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Farid_Khaleel.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_Gerstie: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Gerstie";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Gerstie.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_ImTheKessel: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp ImTheKessel";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\ImTheKessel.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_libfm: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp libfm";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\libfm.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_Rackermann: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Rackermann";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Rackermann.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 	class 9Jgkp_Insignia_SasukeOversea: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp SasukeOversea";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\SasukeOversea.paa";
-	  author="Nilia";
+	  author="Paul";
   };
 
 //HIER In der nächsten Zeile einfügen
