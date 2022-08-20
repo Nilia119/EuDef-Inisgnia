@@ -104,7 +104,7 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Plutokratie.paa";
 	  author="Paul";
   };
-	class 9Jgkp_Insignia_Toyo: 9JgKp_Insignia_Logo
+	class 9Jgkp_Insignia_Stiffler: 9JgKp_Insignia_Logo
 
     {
       displayName = "9. JgKp Stiffler";
