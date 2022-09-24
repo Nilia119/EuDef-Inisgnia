@@ -100,6 +100,14 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_08_Uffz.paa";
 		textureVehicle="";
 	};
+	
+	class 9JgKp_Insignia_Fahnejunker
+	{
+		displayName="0081 Fahnenjunker";
+		author="Nilia";
+		texture="\9JgKp_Insignia_Base\data\insignia\Rank_08a_Fhj.paa";
+		textureVehicle="";
+	};
 
 	class 9JgKp_Insignia_Stabsunteroffizier
 	{
@@ -116,6 +124,14 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_10_Fw.paa";
 		textureVehicle="";
 	};
+	
+	class 9JgKp_Insignia_Faehnrich
+	{
+		displayName="0101 Faehnrich";
+		author="Nilia";
+		texture="\9JgKp_Insignia_Base\data\insignia\Rank_10a_Faehnr.paa";
+		textureVehicle="";
+	};
 
 	class 9JgKp_Insignia_Oberfeldwebel
 	{
@@ -130,6 +146,14 @@ class CfgUnitInsignia
 		displayName="012 Hauptfeldwebel";
 		author="Nilia";
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_12_HFw.paa";
+		textureVehicle="";
+	};
+	
+	class 9JgKp_Insignia_Oberfaehnrich
+	{
+		displayName="0121 Oberfaehnrich";
+		author="Nilia";
+		texture="\9JgKp_Insignia_Base\data\insignia\Rank_12a_OFaehnr.paa";
 		textureVehicle="";
 	};
 
