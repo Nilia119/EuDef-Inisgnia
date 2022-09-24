@@ -57,15 +57,6 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Fichte: 9JgKp_Insignia_Logo
-
-    {
-      displayName = "9. JgKp Fichte | Lucas";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Fichte.paa";
-	  author="Paul";
-  };
-
-
 	class 9Jgkp_Insignia_McNamMon: 9JgKp_Insignia_Logo
 
 	{
