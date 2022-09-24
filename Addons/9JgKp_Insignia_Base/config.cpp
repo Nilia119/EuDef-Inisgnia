@@ -31,7 +31,7 @@ class CfgUnitInsignia
 	//Addition of own Bundeswehr Ranks
 	class 9JgKp_Insignia_Jaeger
 	{
-		displayName="000 Jäger";
+		displayName="000 Jaeger";
 		author="Nilia";
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_00_Jg.paa";
 		textureVehicle="";
@@ -81,7 +81,7 @@ class CfgUnitInsignia
 	{
 		displayName="006 Korporal";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_05_OStGefr.paa";
+		texture="\9JgKp_Insignia_Base\data\insignia\Rank_06_Korp.paa";
 		textureVehicle="";
 	};
 
@@ -89,7 +89,7 @@ class CfgUnitInsignia
 	{
 		displayName="007 Stabskorporal";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_05_OStGefr.paa";
+		texture="\9JgKp_Insignia_Base\data\insignia\Rank_07_StKorp.paa";
 		textureVehicle="";
 	};
 
