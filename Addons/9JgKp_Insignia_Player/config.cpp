@@ -144,13 +144,6 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Rackermann.paa";
 	  author="Paul";
   };
-	class 9Jgkp_Insignia_SasukeOversea: 9JgKp_Insignia_Logo
-
-    {
-      displayName = "9. JgKp SasukeOversea";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\SasukeOversea.paa";
-	  author="Paul";
-  };
 
 //HIER In der nächsten Zeile einfügen
 
