@@ -41,21 +41,6 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Paul: 9JgKp_Insignia_Logo
-
-    {
-      displayName = "9. JgKp Paul";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Paul.paa";
-	  author="Paul";
-  };
-
-	class 9Jgkp_Insignia_Pulle: 9JgKp_Insignia_Logo
-
-    {
-      displayName = "9. JgKp Pulle";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Pulle.paa";
-	  author="Nilia";
-  };
 
 	class 9Jgkp_Insignia_McNamMon: 9JgKp_Insignia_Logo
 
@@ -130,20 +115,7 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\ImTheKessel.paa";
 	  author="Paul";
   };
-	class 9Jgkp_Insignia_libfm: 9JgKp_Insignia_Logo
 
-    {
-      displayName = "9. JgKp libfm";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\libfm.paa";
-	  author="Paul";
-  };
-	class 9Jgkp_Insignia_Rackermann: 9JgKp_Insignia_Logo
-
-    {
-      displayName = "9. JgKp Rackermann";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Rackermann.paa";
-	  author="Paul";
-  };
 
 //HIER In der nächsten Zeile einfügen
 
