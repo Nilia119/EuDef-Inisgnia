@@ -123,6 +123,14 @@ class CfgUnitInsignia {
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Haasm1.paa";
 	  author="Nilia";
   };
+  
+  class 9Jgkp_Insignia_Hotshrek: 9JgKp_Insignia_Logo
+
+    {
+      displayName = "9. JgKp Hotshrek";
+      texture = "\9JgKp_Insignia_Player\Player\Bilder\Hotshrek.paa";
+	  author="Nilia";
+  };
 
 
 //HIER In der nächsten Zeile einfügen
