@@ -42,8 +42,8 @@ class CfgUnitInsignia {
 
 	class 9Jgkp_Insignia_McNamMon: 9JgKp_Insignia_Logo
 	{
-	  displayName = "McNamaras-Morons";
-	  texture = "\9JgKp_Insignia_Player\Player\Bilder\McNamMon.paa";
+	  displayName = "9. JgKp NATO";
+	  texture = "\9JgKp_Insignia_Player\Player\Bilder\NATO.paa";
 	  author="Nilia/Fflluuffyy";
   };
 
