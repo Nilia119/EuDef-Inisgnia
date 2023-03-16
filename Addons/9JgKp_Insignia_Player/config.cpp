@@ -96,12 +96,6 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Gerstie: 9JgKp_Insignia_Logo
-    {
-      displayName = "9. JgKp Gerstie";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Gerstie.paa";
-	  author="Paul";
-  };
 
 	class 9Jgkp_Insignia_ImTheKessel: 9JgKp_Insignia_Logo
     {
