@@ -63,8 +63,6 @@ class CfgUnitInsignia {
 
 	class 9Jgkp_Insignia_EwL: 9JgKp_Insignia_Logo
     {
-      displayName = "9. JgKp EwL | Jesus";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\EwL.paa";
       displayName = "9. JgKp Black";
       texture = "\9JgKp_Insignia_Player\Player\Bilder\Black.paa";
 	  author="Nilia";
