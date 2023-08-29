@@ -102,7 +102,7 @@ class CfgUnitInsignia
 		textureVehicle="";
 	};
 	
-	class 9JgKp_Insignia_Fahnejunker
+	class 9JgKp_Insignia_Fahnenjunker
 	{
 		displayName="0081 Fahnenjunker";
 		author="Nilia";
