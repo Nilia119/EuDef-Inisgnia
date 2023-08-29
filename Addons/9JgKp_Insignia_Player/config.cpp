@@ -113,13 +113,6 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
- class 9Jgkp_Insignia_ItzzPat: 9JgKp_Insignia_Logo
-    {
-      displayName = "9. JgKp Itzz-_-Pat";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\ItzzPat.paa";
-	  author="Nilia";
-  };
-
  class 9Jgkp_Insignia_Manuel: 9JgKp_Insignia_Logo
     {
       displayName = "9. JgKp Manuel";
