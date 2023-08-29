@@ -149,6 +149,13 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
+    class 9Jgkp_Insignia_CC: 9JgKp_Insignia_Logo
+    {
+        displayName = "9. JgKp Crasy Consti";
+        texture = "\9JgKp_Insignia_Player\Player\Bilder\CrasyConsti.paa";
+        author="Nilia";
+    };
+
     class 9Jgkp_Insignia_Paul: 9JgKp_Insignia_Logo
     {
         displayName = "9. JgKp Paul";
