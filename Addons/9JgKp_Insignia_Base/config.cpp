@@ -261,4 +261,18 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Rank_25_Gen.paa";
 		textureVehicle="";
 	};
+    class EuDef_Insignia
+    {
+        displayName="European Defence Force";
+        author="Nilia";
+        texture="\9JgKp_Insignia_Base\data\insignia\EuDef.paa";
+        textureVehicle="";
+    };
+    class EuDef_Insignia_1
+    {
+        displayName="European Defence Force Hexa";
+        author="Nilia";
+        texture="\9JgKp_Insignia_Base\data\insignia\EuDef_Hexa.paa";
+        textureVehicle="";
+    };
 };
