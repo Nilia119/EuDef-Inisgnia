@@ -120,6 +120,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Akahito: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Akahito";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Akahito.paa";
+        author="Nilia";
+    };
+
 
 
 //HIER In der nächsten Zeile einfügen
