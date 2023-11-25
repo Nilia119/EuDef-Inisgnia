@@ -189,6 +189,13 @@ class CfgUnitInsignia {
         texture = "\EuDef_Insignia_Player\Player\Bilder\Gurke.paa";
         author="Nilia";
     };
+
+    class EuDef_Insignia_Karma: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Karma";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Karma.paa";
+        author="Nilia";
+    };
 //HIER In der nächsten Zeile einfügen
 
 
