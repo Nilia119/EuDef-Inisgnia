@@ -29,6 +29,15 @@ class CfgUnitInsignia
 		texture="\9JgKp_Insignia_Base\data\insignia\Logo.paa";
 		textureVehicle="\9JgKp_Insignia_Base\data\insignia\Logo.paa";
 	};
+
+    class EuDef_Insignia_696
+    {
+        displayName="696th Cerberus";
+        author="Nilia";
+        texture="\EuDef_Insignia_Base\data\insignia\696.paa";
+        textureVehicle="\EuDef_Insignia_Base\data\insignia\696.paa";
+    };
+
 	//Addition of own Bundeswehr Ranks
 	class 9JgKp_Insignia_Jaeger
 	{
