@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 9JgKp_Insignia_Player
+	class EuDef_Insignia_Player
 	{
 		// Meta information for editor
 		name = "Insignien der European Defence Force";
@@ -11,7 +11,7 @@ class CfgPatches
 		requiredVersion = 1.60;
 		// Required addons, used for setting load order.
 		// When any of the addons is missing, pop-up warning will appear when launching the game.
-		requiredAddons[] = {"9JgKp_Insignia_Base"};
+		requiredAddons[] = {"EuDef_Insignia_Base"};
 		// List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups) unlocking.
 		units[] = {};
 		// List of weapons (CfgWeapons classes) contained in the addon.
@@ -19,14 +19,14 @@ class CfgPatches
 	};
 };
 
-class 9JgKp_Insignia_Logo;
+class EuDef_Insignia_Logo;
 
 /* Beispiel:
 
-  class 9Jgkp_Insignia_NAME: 9JgKp_Insignia_Logo
+  class EuDef_Insignia_NAME: EuDef_Insignia_Logo
     {
       displayName = "ANZEIGENAME DES PATCHES";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\SPIELERNAME.paa";
+      texture = "\EuDef_Insignia_Player\Player\Bilder\SPIELERNAME.paa";
 	  author="Nilia";
   };
   */
@@ -40,10 +40,9 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class 9Jgkp_Insignia_NATO: 9JgKp_Insignia_Logo
+	class EuDef_Insignia_NATO: EuDef_Insignia_Logo
 	{
-	  displayName = "9. JgKp NATO";
-	  texture = "\9JgKp_Insignia_Player\Player\Bilder\NATO.paa";
+	  displayName = "EuDef NATO";
 	  texture = "\EuDef_Insignia_Player\Player\Bilder\NATO.paa";
 	  author="Nilia/Fflluuffyy";
   };
@@ -62,7 +61,7 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class 9Jgkp_Insignia_EwL: 9JgKp_Insignia_Logo
+	class EuDef_Insignia_EwL: EuDef_Insignia_Logo
     {
       displayName = "EuDef Black";
       texture = "\EuDef_Insignia_Player\Player\Bilder\Black.paa";
