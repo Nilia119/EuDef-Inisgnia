@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 9JgKp_Insignia_Base
+	class EuDef_Insignia_Base
 	{
 		// Meta information for editor
 		name = "Insignien der European Defence Force";
@@ -39,249 +39,249 @@ class CfgUnitInsignia
     };
 
 	//Addition of own Bundeswehr Ranks
-	class 9JgKp_Insignia_Jaeger
+	class EuDef_Insignia_Soldat
 	{
-		displayName="000 Jaeger";
+		displayName="000 Soldat";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_00_Jg.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_00_Jg.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Gefreiter
+	class EuDef_Insignia_Gefreiter
 	{
 		displayName="001 Gefreiter";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_01_Gefr.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_01_Gefr.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Obergefreiter
+	class EuDef_Insignia_Obergefreiter
 	{
 		displayName="002 Obergefreiter";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_02_OGefr.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_02_OGefr.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Hauptgefreiter
+	class EuDef_Insignia_Hauptgefreiter
 	{
 		displayName="003 Hauptgefreiter";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_03_HGefr.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_03_HGefr.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Stabsgefreiter
+	class EuDef_Insignia_Stabsgefreiter
 	{
 		displayName="004 Stabsgefreiter";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_04_StGefr.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_04_StGefr.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Oberstabsgefreiter
+	class EuDef_Insignia_Oberstabsgefreiter
 	{
 		displayName="005 Oberstabsgefreiter";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_05_OStGefr.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_05_OStGefr.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Korporal
+	class EuDef_Insignia_Korporal
 	{
 		displayName="006 Korporal";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_06_Korp.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_06_Korp.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Stabskorporal
+	class EuDef_Insignia_Stabskorporal
 	{
 		displayName="007 Stabskorporal";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_07_StKorp.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_07_StKorp.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Unteroffizier
+	class EuDef_Insignia_Unteroffizier
 	{
 		displayName="008 Unteroffizier";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_08_Uffz.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_08_Uffz.paa";
 		textureVehicle="";
 	};
 	
-	class 9JgKp_Insignia_Fahnenjunker
+	class EuDef_Insignia_Fahnenjunker
 	{
 		displayName="0081 Fahnenjunker";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_08a_Fhj.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_08a_Fhj.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Stabsunteroffizier
+	class EuDef_Insignia_Stabsunteroffizier
 	{
 		displayName="009 Stabsunteroffizier";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_09_StUffz.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_09_StUffz.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Feldwebel
+	class EuDef_Insignia_Feldwebel
 	{
 		displayName="010 Feldwebel";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_10_Fw.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_10_Fw.paa";
 		textureVehicle="";
 	};
 	
-	class 9JgKp_Insignia_Faehnrich
+	class EuDef_Insignia_Faehnrich
 	{
 		displayName="0101 Faehnrich";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_10a_Faehnr.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_10a_Faehnr.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Oberfeldwebel
+	class EuDef_Insignia_Oberfeldwebel
 	{
 		displayName="011 Oberfeldwebel";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_11_OFw.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_11_OFw.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Hauptfeldwebel
+	class EuDef_Insignia_Hauptfeldwebel
 	{
 		displayName="012 Hauptfeldwebel";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_12_HFw.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_12_HFw.paa";
 		textureVehicle="";
 	};
 	
-	class 9JgKp_Insignia_Oberfaehnrich
+	class EuDef_Insignia_Oberfaehnrich
 	{
 		displayName="0121 Oberfaehnrich";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_12a_OFaehnr.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_12a_OFaehnr.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Stabsfeldwebel
+	class EuDef_Insignia_Stabsfeldwebel
 	{
 		displayName="013 Stabsfeldwebel";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_13_StFw.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_13_StFw.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Oberstabsfeldwebel
+	class EuDef_Insignia_Oberstabsfeldwebel
 	{
 		displayName="014 Oberstabsfeldwebel";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_14_OStFw.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_14_OStFw.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Leutnant
+	class EuDef_Insignia_Leutnant
 	{
 		displayName="015 Leutnant";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_15_Lt.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_15_Lt.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Oberleutnant
+	class EuDef_Insignia_Oberleutnant
 	{
 		displayName="016 Oberleutnant";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_16_OLt.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_16_OLt.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Hauptmann
+	class EuDef_Insignia_Hauptmann
 	{
 		displayName="017 Hauptmann";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_17_Hptm.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_17_Hptm.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Stabshauptmann
+	class EuDef_Insignia_Stabshauptmann
 	{
 		displayName="018 Stabshauptmann";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_18_StHptm.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_18_StHptm.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Major
+	class EuDef_Insignia_Major
 	{
 		displayName="019 Major";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_19_Maj.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_19_Maj.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Oberstleutnant
+	class EuDef_Insignia_Oberstleutnant
 	{
 		displayName="020 Oberstleutnant";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_20_Oberstlt.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_20_Oberstlt.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Oberst
+	class EuDef_Insignia_Oberst
 	{
 		displayName="021 Oberst";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_21_Oberst.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_21_Oberst.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Brigadegeneral
+	class EuDef_Insignia_Brigadegeneral
 	{
 		displayName="022 Brigadegeneral";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_22_BrigGen.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_22_BrigGen.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Generalmajor
+	class EuDef_Insignia_Generalmajor
 	{
 		displayName="023 Generalmajor";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_23_GenMaj.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_23_GenMaj.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_Generalleutnant
+	class EuDef_Insignia_Generalleutnant
 	{
 		displayName="024 Generalleutnant";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_24_GenLt.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_24_GenLt.paa";
 		textureVehicle="";
 	};
 
-	class 9JgKp_Insignia_General
+	class EuDef_Insignia_General
 	{
 		displayName="025 General";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Rank_25_Gen.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Rank_25_Gen.paa";
 		textureVehicle="";
 	};
     class EuDef_Insignia
     {
         displayName="European Defence Force";
         author="Nilia";
-        texture="\9JgKp_Insignia_Base\data\insignia\EuDef.paa";
+        texture="\EuDef_Insignia_Base\data\insignia\EuDef.paa";
         textureVehicle="";
     };
     class EuDef_Insignia_1
     {
         displayName="European Defence Force Hexa";
         author="Nilia";
-        texture="\9JgKp_Insignia_Base\data\insignia\EuDef_Hexa.paa";
+        texture="\EuDef_Insignia_Base\data\insignia\EuDef_Hexa.paa";
         textureVehicle="";
     };
 };
