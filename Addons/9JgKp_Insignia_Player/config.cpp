@@ -91,12 +91,10 @@ class CfgUnitInsignia {
   };
 
 
-  class 9Jgkp_Insignia_Hotshrek: 9JgKp_Insignia_Logo
+ class EuDef_Insignia_Manuel: EuDef_Insignia_Logo
     {
- class 9Jgkp_Insignia_Manuel: 9JgKp_Insignia_Logo
-    {
-      displayName = "9. JgKp Manuel";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Manuel.paa";
+      displayName = "EuDef Manuel";
+      texture = "\EuDef_Insignia_Player\Player\Bilder\Manuel.paa";
 	  author="Nilia";
   };
 
