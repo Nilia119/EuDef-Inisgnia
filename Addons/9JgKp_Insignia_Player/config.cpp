@@ -245,6 +245,15 @@ class CfgUnitInsignia {
         texture = "\EuDef_Insignia_Player\Player\Bilder\Sero.paa";
         author="Nilia";
     };
+
+    class EuDef_Insignia_Okami: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef TheOkami";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\TheOkami.paa";
+        author="Nilia";
+    };
+
+
 //HIER In der nächsten Zeile einfügen
 
 
