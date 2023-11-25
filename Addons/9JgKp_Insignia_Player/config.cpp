@@ -44,13 +44,14 @@ class CfgUnitInsignia {
 	{
 	  displayName = "9. JgKp NATO";
 	  texture = "\9JgKp_Insignia_Player\Player\Bilder\NATO.paa";
+	  texture = "\EuDef_Insignia_Player\Player\Bilder\NATO.paa";
 	  author="Nilia/Fflluuffyy";
   };
 
-	class 9Jgkp_Insignia_Fox: 9JgKp_Insignia_Logo
+	class EuDef_Insignia_Fox: EuDef_Insignia_Logo
 	{
-	  displayName = "9. JgKp Fox";
-	  texture = "\9JgKp_Insignia_Player\Player\Bilder\Fox.paa";
+	  displayName = "EuDef Fox";
+	  texture = "\EuDef_Insignia_Player\Player\Bilder\Fox.paa";
 	  author="Nilia";
   };
 
