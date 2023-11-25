@@ -196,6 +196,16 @@ class CfgUnitInsignia {
         texture = "\EuDef_Insignia_Player\Player\Bilder\Karma.paa";
         author="Nilia";
     };
+
+    class EuDef_Insignia_Miep: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Miep";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Miep.paa";
+        author="Nilia";
+    };
+
+
+
 //HIER In der nächsten Zeile einfügen
 
 
