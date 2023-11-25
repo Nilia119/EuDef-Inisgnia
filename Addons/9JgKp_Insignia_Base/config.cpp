@@ -22,12 +22,12 @@ class CfgPatches
 class CfgUnitInsignia
 {
 	//Addition of Clan Specific Emblems
-	class 9JgKp_Insignia_Logo
+	class EuDef_Insignia_9JgKp
 	{
 		displayName="9. Jägerkompanie";
 		author="Nilia";
-		texture="\9JgKp_Insignia_Base\data\insignia\Logo.paa";
-		textureVehicle="\9JgKp_Insignia_Base\data\insignia\Logo.paa";
+		texture="\EuDef_Insignia_Base\data\insignia\Logo.paa";
+		textureVehicle="\EuDef_Insignia_Base\data\insignia\Logo.paa";
 	};
 
     class EuDef_Insignia_696
