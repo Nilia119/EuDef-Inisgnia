@@ -218,6 +218,12 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Ratte: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Ratte";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Ratte.paa";
+        author="Nilia";
+    };
 //HIER In der nächsten Zeile einfügen
 
 
