@@ -83,10 +83,10 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Farid_Khaleel: 9JgKp_Insignia_Logo
+	class EuDef_Insignia_Farid_Khaleel: EuDef_Insignia_Logo
     {
-      displayName = "9. JgKp Farid Khaleel";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Farid_Khaleel.paa";
+      displayName = "EuDef Farid Khaleel";
+      texture = "\EuDef_Insignia_Player\Player\Bilder\Farid_Khaleel.paa";
 	  author="Nilia";
   };
 
