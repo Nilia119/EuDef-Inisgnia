@@ -141,6 +141,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Waschie: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef DerWaschie";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Waschie.paa";
+        author="Nilia";
+    };
+
 
 
 //HIER In der nächsten Zeile einfügen
