@@ -3,9 +3,9 @@ class CfgPatches
 	class 9JgKp_Insignia_Base
 	{
 		// Meta information for editor
-		name = "Insignien der 9. Jägerkompanie";
-		author = "[9.JgKp]Nilia";
-		url = "https://github.com/Nilia119/9JgKp-Inisgnia";
+		name = "Insignien der European Defence Force";
+		author = "[EuDef]Nilia";
+		url = "https://github.com/Nilia119/EuDef-Inisgnia";
 
 		// Minimum compatible version. When the game's version is lower, pop-up warning will appear when launching the game. Note: was disabled on purpose some time late into Arma 2: OA.
 		requiredVersion = 1.60;
