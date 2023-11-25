@@ -238,6 +238,13 @@ class CfgUnitInsignia {
         texture = "\EuDef_Insignia_Player\Player\Bilder\Sam King_T.paa";
         author="Nilia";
     };
+
+    class EuDef_Insignia_Sero: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Sero";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Sero.paa";
+        author="Nilia";
+    };
 //HIER In der nächsten Zeile einfügen
 
 
