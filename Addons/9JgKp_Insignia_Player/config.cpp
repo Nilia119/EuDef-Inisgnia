@@ -99,10 +99,10 @@ class CfgUnitInsignia {
   };
 
 
- class 9Jgkp_Insignia_SamKing: 9JgKp_Insignia_Logo
+ class EuDef_Insignia_SamKing: EuDef_Insignia_Logo
     {
-      displayName = "9. JgKp Sam King";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\SamKing.paa";
+      displayName = "EuDef Sam King";
+      texture = "\EuDef_Insignia_Player\Player\Bilder\SamKing.paa";
 	  author="Nilia";
   };
 
