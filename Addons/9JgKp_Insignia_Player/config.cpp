@@ -127,6 +127,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Benedikt: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Benedikt";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Benedikt.paa";
+        author="Nilia";
+    };
+
 
 
 //HIER In der nächsten Zeile einfügen
