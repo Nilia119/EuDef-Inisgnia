@@ -76,10 +76,10 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class 9Jgkp_Insignia_Toyo: 9JgKp_Insignia_Logo
+	class EuDef_Insignia_Toyo: EuDef_Insignia_Logo
     {
-      displayName = "9. JgKp Toyo";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Toyo.paa";
+      displayName = "EuDef Toyo";
+      texture = "\EuDef_Insignia_Player\Player\Bilder\Toyo.paa";
 	  author="Nilia";
   };
 
