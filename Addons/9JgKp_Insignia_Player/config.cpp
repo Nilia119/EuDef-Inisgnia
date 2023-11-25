@@ -182,6 +182,13 @@ class CfgUnitInsignia {
         texture = "\EuDef_Insignia_Player\Player\Bilder\Grurai.paa";
         author="Nilia";
     };
+
+    class EuDef_Insignia_Gurke: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Gurke";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Gurke.paa";
+        author="Nilia";
+    };
 //HIER In der nächsten Zeile einfügen
 
 
