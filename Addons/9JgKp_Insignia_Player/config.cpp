@@ -118,12 +118,6 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
- class 9Jgkp_Insignia_Tom: 9JgKp_Insignia_Logo
-    {
-      displayName = "9. JgKp Tom";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Tom.paa";
-	  author="Nilia";
-  };
 
     class 9Jgkp_Insignia_CC: 9JgKp_Insignia_Logo
     {
