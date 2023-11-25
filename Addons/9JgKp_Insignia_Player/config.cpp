@@ -107,10 +107,10 @@ class CfgUnitInsignia {
   };
 
 
-    class 9Jgkp_Insignia_CC: 9JgKp_Insignia_Logo
+    class EuDef_Insignia_CC: EuDef_Insignia_Logo
     {
-        displayName = "9. JgKp Crasy Consti";
-        texture = "\9JgKp_Insignia_Player\Player\Bilder\CrasyConsti.paa";
+        displayName = "EuDef Crasy Consti";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\CrasyConsti.paa";
         author="Nilia";
     };
 
