@@ -175,6 +175,13 @@ class CfgUnitInsignia {
         texture = "\EuDef_Insignia_Player\Player\Bilder\Frosch.paa";
         author="Nilia";
     };
+
+    class EuDef_Insignia_Grurai: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Grurai";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Grurai.paa";
+        author="Nilia";
+    };
 //HIER In der nächsten Zeile einfügen
 
 
