@@ -204,6 +204,12 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Olympus: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Olympus";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Olympus.paa";
+        author="Nilia";
+    };
 
 
 //HIER In der nächsten Zeile einfügen
