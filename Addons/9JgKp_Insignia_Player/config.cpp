@@ -148,6 +148,12 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Dompie: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Dompie";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Dompie.paa";
+        author="Nilia";
+    };
 
 
 //HIER In der nächsten Zeile einfügen
