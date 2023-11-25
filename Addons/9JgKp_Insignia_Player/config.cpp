@@ -92,11 +92,6 @@ class CfgUnitInsignia {
 
   class 9Jgkp_Insignia_Hotshrek: 9JgKp_Insignia_Logo
     {
-      displayName = "9. JgKp Hotshrek";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Hotshrek.paa";
-	  author="Nilia";
-  };
-
  class 9Jgkp_Insignia_Manuel: 9JgKp_Insignia_Logo
     {
       displayName = "9. JgKp Manuel";
