@@ -89,12 +89,6 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
- 	class 9Jgkp_Insignia_Haasm: 9JgKp_Insignia_Logo
-    {
-      displayName = "9. JgKp Haasm1";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Haasm1.paa";
-	  author="Nilia";
-  };
 
   class 9Jgkp_Insignia_Hotshrek: 9JgKp_Insignia_Logo
     {
