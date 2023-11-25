@@ -224,6 +224,13 @@ class CfgUnitInsignia {
         texture = "\EuDef_Insignia_Player\Player\Bilder\Ratte.paa";
         author="Nilia";
     };
+
+    class EuDef_Insignia_Rock: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Rock";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Rock.paa";
+        author="Nilia";
+    };
 //HIER In der nächsten Zeile einfügen
 
 
