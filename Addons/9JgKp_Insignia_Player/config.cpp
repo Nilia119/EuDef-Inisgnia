@@ -33,10 +33,10 @@ class 9JgKp_Insignia_Logo;
 
 class CfgUnitInsignia {
 
-  class 9Jgkp_Insignia_Nilia: 9JgKp_Insignia_Logo
+  class EuDef_Insignia_Nilia: EuDef_Insignia_Logo
     {
-      displayName = "9. JgKp Nilia";
-      texture = "\9JgKp_Insignia_Player\Player\Bilder\Nilia.paa";
+      displayName = "EuDef Nilia";
+      texture = "\EuDef_Insignia_Player\Player\Bilder\Nilia.paa";
 	  author="Nilia";
   };
 
