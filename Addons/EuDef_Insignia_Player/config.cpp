@@ -199,7 +199,7 @@ class CfgUnitInsignia {
     class EuDef_Insignia_SamKing_T: EuDef_Insignia_Logo
     {
         displayName = "EuDef Sam King Tropen";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Sam King_T.paa";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\SamKing_T.paa";
         author="Nilia";
     };
 
