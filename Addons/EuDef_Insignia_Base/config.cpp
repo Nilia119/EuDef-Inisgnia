@@ -21,23 +21,6 @@ class CfgPatches
 
 class CfgUnitInsignia
 {
-	//Addition of Clan Specific Emblems
-	class EuDef_Insignia_9JgKp
-	{
-		displayName="9. Jägerkompanie";
-		author="Nilia";
-		texture="\EuDef_Insignia_Base\data\insignia\Logo.paa";
-		textureVehicle="\EuDef_Insignia_Base\data\insignia\Logo.paa";
-	};
-
-    class EuDef_Insignia_696
-    {
-        displayName="696th Cerberus";
-        author="Nilia";
-        texture="\EuDef_Insignia_Base\data\insignia\696.paa";
-        textureVehicle="\EuDef_Insignia_Base\data\insignia\696.paa";
-    };
-
 	//Addition of own Bundeswehr Ranks
 	class EuDef_Insignia_Soldat
 	{
@@ -270,18 +253,18 @@ class CfgUnitInsignia
 		texture="\EuDef_Insignia_Base\data\insignia\Rank_25_Gen.paa";
 		textureVehicle="";
 	};
-    class EuDef_Insignia
+    class EuDef_Insignia_Logo_T
     {
-        displayName="European Defence Force";
+        displayName="European Defence Force Logo";
         author="Nilia";
         texture="\EuDef_Insignia_Base\data\insignia\EuDef.paa";
         textureVehicle="";
     };
-    class EuDef_Insignia_1
+    class EuDef_Insignia_Logo
     {
         displayName="European Defence Force Hexa";
         author="Nilia";
-        texture="\EuDef_Insignia_Base\data\insignia\EuDef_Hexa.paa";
+        texture="\EuDef_Insignia_Base\data\insignia\EuDef Hexa.paa";
         textureVehicle="";
     };
 };
