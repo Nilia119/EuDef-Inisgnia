@@ -61,13 +61,6 @@ class CfgUnitInsignia {
 	  author="Nilia";
   };
 
-	class EuDef_Insignia_EwL: EuDef_Insignia_Logo
-    {
-      displayName = "EuDef Black";
-      texture = "\EuDef_Insignia_Player\Player\Bilder\Black.paa";
-	  author="Nilia";
-  };
-
 	class EuDef_Insignia_Plutokratie: EuDef_Insignia_Logo
     {
       displayName = "EuDef Plutokratie";
@@ -79,21 +72,6 @@ class CfgUnitInsignia {
     {
       displayName = "EuDef Toyo";
       texture = "\EuDef_Insignia_Player\Player\Bilder\Toyo.paa";
-	  author="Nilia";
-  };
-
-	class EuDef_Insignia_Farid_Khaleel: EuDef_Insignia_Logo
-    {
-      displayName = "EuDef Farid Khaleel";
-      texture = "\EuDef_Insignia_Player\Player\Bilder\Farid_Khaleel.paa";
-	  author="Nilia";
-  };
-
-
- class EuDef_Insignia_Manuel: EuDef_Insignia_Logo
-    {
-      displayName = "EuDef Manuel";
-      texture = "\EuDef_Insignia_Player\Player\Bilder\Manuel.paa";
 	  author="Nilia";
   };
 
@@ -141,13 +119,6 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_Waschie: EuDef_Insignia_Logo
-    {
-        displayName = "EuDef DerWaschie";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Waschie.paa";
-        author="Nilia";
-    };
-
     class EuDef_Insignia_Dompie: EuDef_Insignia_Logo
     {
         displayName = "EuDef Dompie";
@@ -187,13 +158,6 @@ class CfgUnitInsignia {
     {
         displayName = "EuDef Gurke";
         texture = "\EuDef_Insignia_Player\Player\Bilder\Gurke.paa";
-        author="Nilia";
-    };
-
-    class EuDef_Insignia_Karma: EuDef_Insignia_Logo
-    {
-        displayName = "EuDef Karma";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Karma.paa";
         author="Nilia";
     };
 
