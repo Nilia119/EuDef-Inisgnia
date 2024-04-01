@@ -253,6 +253,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Scharfspelz: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Scharfspelz";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Scharfspelz.paa";
+        author="Nilia";
+    };
+
     class EuDef_Insignia_Desert: EuDef_Insignia_Logo
     {
         displayName = "EuDef Desert";
