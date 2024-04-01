@@ -119,10 +119,10 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_Dompie: EuDef_Insignia_Logo
+    class EuDef_Insignia_Dompi: EuDef_Insignia_Logo
     {
-        displayName = "EuDef Dompie";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Dompie.paa";
+        displayName = "EuDef Dompi";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Dompi.paa";
         author="Nilia";
     };
 
