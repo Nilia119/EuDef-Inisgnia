@@ -168,7 +168,10 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Zitobe: EuDef_Insignia_Logo
     {
+        displayName = "EuDef Zitobe";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Zitobe.paa";
         author="Nilia";
     };
 
