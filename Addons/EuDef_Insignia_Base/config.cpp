@@ -183,6 +183,14 @@ class CfgUnitInsignia
 		textureVehicle="";
 	};
 
+    class EuDef_Insignia_ChiefWarrantOfficer4
+    {
+        displayName="0131 Chief Warrant Officer 4";
+        author="Nilia";
+        texture="\EuDef_Insignia_Base\data\insignia\Rank_13a_CW4.paa";
+        textureVehicle="";
+    };
+
 	class EuDef_Insignia_Oberstabsfeldwebel
 	{
 		displayName="014 Oberstabsfeldwebel";
