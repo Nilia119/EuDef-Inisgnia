@@ -199,6 +199,14 @@ class CfgUnitInsignia
 		textureVehicle="";
 	};
 
+    class EuDef_Insignia_ChiefWarrantOfficer5
+    {
+        displayName="0141 Chief Warrant Officer 5";
+        author="Nilia";
+        texture="\EuDef_Insignia_Base\data\insignia\Rank_14a_CW5.paa";
+        textureVehicle="";
+    };
+
 	class EuDef_Insignia_Leutnant
 	{
 		displayName="015 Leutnant";
