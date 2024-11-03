@@ -112,12 +112,6 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_Cutter: EuDef_Insignia_Logo
-    {
-        displayName = "EuDef Cutter";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Cutter.paa";
-        author="Nilia";
-    };
 
     class EuDef_Insignia_Dompi: EuDef_Insignia_Logo
     {
