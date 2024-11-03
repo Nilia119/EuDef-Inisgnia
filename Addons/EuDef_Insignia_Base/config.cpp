@@ -167,6 +167,14 @@ class CfgUnitInsignia
 		textureVehicle="";
 	};
 
+    class EuDef_Insignia_ChiefWarrantOfficer3
+    {
+        displayName="0122 Chief Warrant Officer 3";
+        author="Nilia";
+        texture="\EuDef_Insignia_Base\data\insignia\Rank_12b_CW3.paa";
+        textureVehicle="";
+    };
+
 	class EuDef_Insignia_Stabsfeldwebel
 	{
 		displayName="013 Stabsfeldwebel";
