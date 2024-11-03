@@ -221,12 +221,6 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_EuDef_Shield: EuDef_Insignia_Logo
-    {
-        displayName = "European Defence Force";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\EuDef_Jinx.paa";
-        author="Nilia";
-    };
 
 
 //HIER In der nächsten Zeile einfügen
