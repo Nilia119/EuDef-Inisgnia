@@ -117,6 +117,7 @@ class CfgUnitInsignia
 		texture="\EuDef_Insignia_Base\data\insignia\Rank_10_Fw.paa";
 		textureVehicle="";
 	};
+
 	
 	class EuDef_Insignia_Faehnrich
 	{
@@ -125,6 +126,14 @@ class CfgUnitInsignia
 		texture="\EuDef_Insignia_Base\data\insignia\Rank_10a_Faehnr.paa";
 		textureVehicle="";
 	};
+
+    class EuDef_Insignia_WarrantOfficer1
+    {
+        displayName="0102 Warrant Officer 1";
+        author="Nilia";
+        texture="\EuDef_Insignia_Base\data\insignia\Rank_10b_WO1.paa";
+        textureVehicle="";
+    };
 
 	class EuDef_Insignia_Oberfeldwebel
 	{
