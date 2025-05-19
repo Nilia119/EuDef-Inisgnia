@@ -119,13 +119,6 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_Miep: EuDef_Insignia_Logo
-    {
-        displayName = "EuDef Miep";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Miep.paa";
-        author="Nilia";
-    };
-
     class EuDef_Insignia_Olympus: EuDef_Insignia_Logo
     {
         displayName = "EuDef Olympus";
