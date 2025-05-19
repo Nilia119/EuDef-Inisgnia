@@ -133,13 +133,6 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_Sero: EuDef_Insignia_Logo
-    {
-        displayName = "EuDef Sero";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Sero.paa";
-        author="Nilia";
-    };
-
     class EuDef_Insignia_Okami: EuDef_Insignia_Logo
     {
         displayName = "EuDef TheOkami";
