@@ -119,13 +119,6 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_Luna: EuDef_Insignia_Logo
-    {
-        displayName = "EuDef Luna";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Luna.paa";
-        author="Nilia";
-    };
-
     class EuDef_Insignia_Zitobe: EuDef_Insignia_Logo
     {
         displayName = "EuDef Zitobe";
