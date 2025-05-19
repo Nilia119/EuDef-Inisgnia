@@ -105,13 +105,6 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
-    class EuDef_Insignia_Floaty: EuDef_Insignia_Logo
-    {
-        displayName = "EuDef FloatyBoi";
-        texture = "\EuDef_Insignia_Player\Player\Bilder\Floaty.paa";
-        author="Nilia";
-    };
-
     class EuDef_Insignia_Frosch: EuDef_Insignia_Logo
     {
         displayName = "EuDef Frosch";
