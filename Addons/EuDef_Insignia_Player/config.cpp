@@ -182,6 +182,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Maddin092: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Maddin092";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Maddin092.paa";
+        author="Nilia";
+    };
+
 
 
 //HIER In der nächsten Zeile einfügen
