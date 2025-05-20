@@ -154,6 +154,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Fichte: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Fichte";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\DieScholle.paa";
+        author="Nilia";
+    };
+
     class EuDef_Insignia_Rodrigez: EuDef_Insignia_Logo
     {
         displayName = "EuDef G. Rodrigez";
