@@ -161,6 +161,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Jannik: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Jannik";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Jannik.paa";
+        author="Nilia";
+    };
+
 
 
 //HIER In der nächsten Zeile einfügen
