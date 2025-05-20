@@ -175,6 +175,13 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+    class EuDef_Insignia_Kevin7451: EuDef_Insignia_Logo
+    {
+        displayName = "EuDef Kevin7451";
+        texture = "\EuDef_Insignia_Player\Player\Bilder\Kevin7451.paa";
+        author="Nilia";
+    };
+
 
 
 //HIER In der nächsten Zeile einfügen
