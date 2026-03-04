@@ -189,6 +189,41 @@ class CfgUnitInsignia {
         author="Nilia";
     };
 
+	class EuDef_Insignia_CatLP: EuDef_Insignia_Logo
+	{
+		displayName = "EuDef CatLP";
+		texture = "\EuDef_Insignia_Player\Player\Bilder\CatLP.paa";
+		author="Nilia";
+	};
+
+	class EuDef_Insignia_DarthBloodmide: EuDef_Insignia_Logo
+	{
+		displayName = "EuDef Darth_Bloodmide";
+		texture = "\EuDef_Insignia_Player\Player\Bilder\DarthBloodmide.paa";
+		author="Nilia";
+	};
+
+	class EuDef_Insignia_Deckelcom: EuDef_Insignia_Logo
+	{
+		displayName = "EuDef Deckelcom";
+		texture = "\EuDef_Insignia_Player\Player\Bilder\Deckelcom.paa";
+		author="Nilia";
+	};
+
+	class EuDef_Insignia_MikeMJ: EuDef_Insignia_Logo
+	{
+		displayName = "EuDef MikeMJ";
+		texture = "\EuDef_Insignia_Player\Player\Bilder\MikeMJ.paa";
+		author="Nilia";
+	};
+
+	class EuDef_Insignia_Floki: EuDef_Insignia_Logo
+	{
+		displayName = "EuDef Floki";
+		texture = "\EuDef_Insignia_Player\Player\Bilder\Floki.paa";
+		author="Nilia";
+	};
+
 
 
 //HIER In der nächsten Zeile einfügen
